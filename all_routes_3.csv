@@ -1,451 +1,495 @@
 ,Address,Latitude,Longitude,Zone,Page,Total Distance,Order
-0,"Connaught Place, Delhi",28.6314022,77.2193791,3,0,101.28,0
-1,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,0,101.28,1
-2,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,0,101.28,2
-3,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,0,101.28,3
-4,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,0,101.28,4
-5,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,0,101.28,5
-6,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,0,101.28,6
-7,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,0,101.28,7
-8,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,0,101.28,8
-9,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,0,101.28,9
-10,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,0,101.28,10
-11,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,0,101.28,11
-12,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,0,101.28,12
-13,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,0,101.28,13
-14,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,0,101.28,14
-15,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,0,101.28,15
-16,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,0,101.28,16
-17,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,0,101.28,17
-18,"Connaught Place, Delhi",28.6314022,77.2193791,3,1,97.45,0
-19,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,1,97.45,1
-20,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,1,97.45,2
-21,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,1,97.45,3
-22,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,1,97.45,4
-23,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,1,97.45,5
-24,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,1,97.45,6
-25,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,1,97.45,7
-26,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,1,97.45,8
-27,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,1,97.45,9
-28,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,1,97.45,10
-29,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,1,97.45,11
-30,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,1,97.45,12
-31,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,1,97.45,13
-32,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,1,97.45,14
-33,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,1,97.45,15
-34,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,1,97.45,16
-35,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,1,97.45,17
-36,"Connaught Place, Delhi",28.6314022,77.2193791,3,2,92.53,0
-37,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,2,92.53,1
-38,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,2,92.53,2
-39,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,2,92.53,3
-40,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,2,92.53,4
-41,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,2,92.53,5
-42,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,2,92.53,6
-43,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,2,92.53,7
-44,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,2,92.53,8
-45,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,2,92.53,9
-46,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,2,92.53,10
-47,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,2,92.53,11
-48,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,2,92.53,12
-49,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,2,92.53,13
-50,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,2,92.53,14
-51,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,2,92.53,15
-52,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,2,92.53,16
-53,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,2,92.53,17
-54,"Connaught Place, Delhi",28.6314022,77.2193791,3,3,91.49,0
-55,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,3,91.49,1
-56,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,3,91.49,2
-57,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,3,91.49,3
-58,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,3,91.49,4
-59,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,3,91.49,5
-60,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,3,91.49,6
-61,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,3,91.49,7
-62,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,3,91.49,8
-63,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,3,91.49,9
-64,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,3,91.49,10
-65,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,3,91.49,11
-66,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,3,91.49,12
-67,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,3,91.49,13
-68,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,3,91.49,14
-69,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,3,91.49,15
-70,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,3,91.49,16
-71,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,3,91.49,17
-72,"Connaught Place, Delhi",28.6314022,77.2193791,3,4,88.87,0
-73,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,4,88.87,1
-74,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,4,88.87,2
-75,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,4,88.87,3
-76,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,4,88.87,4
-77,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,4,88.87,5
-78,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,4,88.87,6
-79,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,4,88.87,7
-80,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,4,88.87,8
-81,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,4,88.87,9
-82,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,4,88.87,10
-83,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,4,88.87,11
-84,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,4,88.87,12
-85,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,4,88.87,13
-86,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,4,88.87,14
-87,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,4,88.87,15
-88,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,4,88.87,16
-89,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,4,88.87,17
-90,"Connaught Place, Delhi",28.6314022,77.2193791,3,5,83.82,0
-91,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,5,83.82,1
-92,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,5,83.82,2
-93,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,5,83.82,3
-94,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,5,83.82,4
-95,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,5,83.82,5
-96,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,5,83.82,6
-97,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,5,83.82,7
-98,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,5,83.82,8
-99,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,5,83.82,9
-100,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,5,83.82,10
-101,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,5,83.82,11
-102,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,5,83.82,12
-103,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,5,83.82,13
-104,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,5,83.82,14
-105,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,5,83.82,15
-106,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,5,83.82,16
-107,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,5,83.82,17
-108,"Connaught Place, Delhi",28.6314022,77.2193791,3,6,82.55,0
-109,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,6,82.55,1
-110,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,6,82.55,2
-111,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,6,82.55,3
-112,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,6,82.55,4
-113,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,6,82.55,5
-114,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,6,82.55,6
-115,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,6,82.55,7
-116,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,6,82.55,8
-117,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,6,82.55,9
-118,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,6,82.55,10
-119,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,6,82.55,11
-120,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,6,82.55,12
-121,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,6,82.55,13
-122,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,6,82.55,14
-123,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,6,82.55,15
-124,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,6,82.55,16
-125,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,6,82.55,17
-126,"Connaught Place, Delhi",28.6314022,77.2193791,3,7,79.65,0
-127,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,7,79.65,1
-128,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,7,79.65,2
-129,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,7,79.65,3
-130,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,7,79.65,4
-131,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,7,79.65,5
-132,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,7,79.65,6
-133,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,7,79.65,7
-134,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,7,79.65,8
-135,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,7,79.65,9
-136,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,7,79.65,10
-137,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,7,79.65,11
-138,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,7,79.65,12
-139,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,7,79.65,13
-140,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,7,79.65,14
-141,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,7,79.65,15
-142,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,7,79.65,16
-143,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,7,79.65,17
-144,"Connaught Place, Delhi",28.6314022,77.2193791,3,8,76.82,0
-145,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,8,76.82,1
-146,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,8,76.82,2
-147,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,8,76.82,3
-148,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,8,76.82,4
-149,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,8,76.82,5
-150,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,8,76.82,6
-151,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,8,76.82,7
-152,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,8,76.82,8
-153,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,8,76.82,9
-154,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,8,76.82,10
-155,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,8,76.82,11
-156,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,8,76.82,12
-157,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,8,76.82,13
-158,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,8,76.82,14
-159,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,8,76.82,15
-160,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,8,76.82,16
-161,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,8,76.82,17
-162,"Connaught Place, Delhi",28.6314022,77.2193791,3,9,74.3,0
-163,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,9,74.3,1
-164,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,9,74.3,2
-165,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,9,74.3,3
-166,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,9,74.3,4
-167,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,9,74.3,5
-168,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,9,74.3,6
-169,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,9,74.3,7
-170,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,9,74.3,8
-171,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,9,74.3,9
-172,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,9,74.3,10
-173,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,9,74.3,11
-174,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,9,74.3,12
-175,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,9,74.3,13
-176,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,9,74.3,14
-177,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,9,74.3,15
-178,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,9,74.3,16
-179,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,9,74.3,17
-180,"Connaught Place, Delhi",28.6314022,77.2193791,3,10,73.25,0
-181,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,10,73.25,1
-182,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,10,73.25,2
-183,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,10,73.25,3
-184,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,10,73.25,4
-185,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,10,73.25,5
-186,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,10,73.25,6
-187,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,10,73.25,7
-188,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,10,73.25,8
-189,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,10,73.25,9
-190,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,10,73.25,10
-191,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,10,73.25,11
-192,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,10,73.25,12
-193,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,10,73.25,13
-194,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,10,73.25,14
-195,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,10,73.25,15
-196,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,10,73.25,16
-197,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,10,73.25,17
-198,"Connaught Place, Delhi",28.6314022,77.2193791,3,11,71.89,0
-199,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,11,71.89,1
-200,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,11,71.89,2
-201,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,11,71.89,3
-202,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,11,71.89,4
-203,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,11,71.89,5
-204,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,11,71.89,6
-205,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,11,71.89,7
-206,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,11,71.89,8
-207,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,11,71.89,9
-208,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,11,71.89,10
-209,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,11,71.89,11
-210,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,11,71.89,12
-211,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,11,71.89,13
-212,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,11,71.89,14
-213,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,11,71.89,15
-214,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,11,71.89,16
-215,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,11,71.89,17
-216,"Connaught Place, Delhi",28.6314022,77.2193791,3,12,71.27,0
-217,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,12,71.27,1
-218,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,12,71.27,2
-219,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,12,71.27,3
-220,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,12,71.27,4
-221,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,12,71.27,5
-222,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,12,71.27,6
-223,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,12,71.27,7
-224,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,12,71.27,8
-225,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,12,71.27,9
-226,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,12,71.27,10
-227,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,12,71.27,11
-228,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,12,71.27,12
-229,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,12,71.27,13
-230,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,12,71.27,14
-231,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,12,71.27,15
-232,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,12,71.27,16
-233,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,12,71.27,17
-234,"Connaught Place, Delhi",28.6314022,77.2193791,3,13,70.03,0
-235,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,13,70.03,1
-236,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,13,70.03,2
-237,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,13,70.03,3
-238,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,13,70.03,4
-239,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,13,70.03,5
-240,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,13,70.03,6
-241,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,13,70.03,7
-242,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,13,70.03,8
-243,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,13,70.03,9
-244,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,13,70.03,10
-245,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,13,70.03,11
-246,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,13,70.03,12
-247,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,13,70.03,13
-248,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,13,70.03,14
-249,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,13,70.03,15
-250,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,13,70.03,16
-251,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,13,70.03,17
-252,"Connaught Place, Delhi",28.6314022,77.2193791,3,14,66.29,0
-253,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,14,66.29,1
-254,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,14,66.29,2
-255,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,14,66.29,3
-256,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,14,66.29,4
-257,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,14,66.29,5
-258,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,14,66.29,6
-259,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,14,66.29,7
-260,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,14,66.29,8
-261,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,14,66.29,9
-262,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,14,66.29,10
-263,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,14,66.29,11
-264,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,14,66.29,12
-265,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,14,66.29,13
-266,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,14,66.29,14
-267,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,14,66.29,15
-268,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,14,66.29,16
-269,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,14,66.29,17
-270,"Connaught Place, Delhi",28.6314022,77.2193791,3,15,65.64,0
-271,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,15,65.64,1
-272,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,15,65.64,2
-273,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,15,65.64,3
-274,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,15,65.64,4
-275,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,15,65.64,5
-276,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,15,65.64,6
-277,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,15,65.64,7
-278,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,15,65.64,8
-279,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,15,65.64,9
-280,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,15,65.64,10
-281,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,15,65.64,11
-282,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,15,65.64,12
-283,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,15,65.64,13
-284,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,15,65.64,14
-285,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,15,65.64,15
-286,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,15,65.64,16
-287,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,15,65.64,17
-288,"Connaught Place, Delhi",28.6314022,77.2193791,3,16,62.38,0
-289,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,16,62.38,1
-290,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,16,62.38,2
-291,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,16,62.38,3
-292,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,16,62.38,4
-293,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,16,62.38,5
-294,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,16,62.38,6
-295,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,16,62.38,7
-296,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,16,62.38,8
-297,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,16,62.38,9
-298,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,16,62.38,10
-299,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,16,62.38,11
-300,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,16,62.38,12
-301,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,16,62.38,13
-302,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,16,62.38,14
-303,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,16,62.38,15
-304,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,16,62.38,16
-305,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,16,62.38,17
-306,"Connaught Place, Delhi",28.6314022,77.2193791,3,17,61.28,0
-307,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,17,61.28,1
-308,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,17,61.28,2
-309,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,17,61.28,3
-310,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,17,61.28,4
-311,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,17,61.28,5
-312,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,17,61.28,6
-313,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,17,61.28,7
-314,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,17,61.28,8
-315,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,17,61.28,9
-316,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,17,61.28,10
-317,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,17,61.28,11
-318,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,17,61.28,12
-319,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,17,61.28,13
-320,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,17,61.28,14
-321,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,17,61.28,15
-322,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,17,61.28,16
-323,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,17,61.28,17
-324,"Connaught Place, Delhi",28.6314022,77.2193791,3,18,60.28,0
-325,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,18,60.28,1
-326,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,18,60.28,2
-327,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,18,60.28,3
-328,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,18,60.28,4
-329,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,18,60.28,5
-330,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,18,60.28,6
-331,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,18,60.28,7
-332,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,18,60.28,8
-333,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,18,60.28,9
-334,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,18,60.28,10
-335,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,18,60.28,11
-336,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,18,60.28,12
-337,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,18,60.28,13
-338,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,18,60.28,14
-339,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,18,60.28,15
-340,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,18,60.28,16
-341,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,18,60.28,17
-342,"Connaught Place, Delhi",28.6314022,77.2193791,3,19,58.56,0
-343,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,19,58.56,1
-344,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,19,58.56,2
-345,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,19,58.56,3
-346,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,19,58.56,4
-347,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,19,58.56,5
-348,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,19,58.56,6
-349,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,19,58.56,7
-350,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,19,58.56,8
-351,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,19,58.56,9
-352,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,19,58.56,10
-353,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,19,58.56,11
-354,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,19,58.56,12
-355,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,19,58.56,13
-356,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,19,58.56,14
-357,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,19,58.56,15
-358,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,19,58.56,16
-359,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,19,58.56,17
-360,"Connaught Place, Delhi",28.6314022,77.2193791,3,20,58.2,0
-361,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,20,58.2,1
-362,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,20,58.2,2
-363,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,20,58.2,3
-364,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,20,58.2,4
-365,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,20,58.2,5
-366,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,20,58.2,6
-367,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,20,58.2,7
-368,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,20,58.2,8
-369,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,20,58.2,9
-370,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,20,58.2,10
-371,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,20,58.2,11
-372,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,20,58.2,12
-373,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,20,58.2,13
-374,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,20,58.2,14
-375,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,20,58.2,15
-376,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,20,58.2,16
-377,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,20,58.2,17
-378,"Connaught Place, Delhi",28.6314022,77.2193791,3,21,57.98,0
-379,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,21,57.98,1
-380,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,21,57.98,2
-381,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,21,57.98,3
-382,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,21,57.98,4
-383,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,21,57.98,5
-384,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,21,57.98,6
-385,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,21,57.98,7
-386,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,21,57.98,8
-387,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,21,57.98,9
-388,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,21,57.98,10
-389,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,21,57.98,11
-390,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,21,57.98,12
-391,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,21,57.98,13
-392,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,21,57.98,14
-393,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,21,57.98,15
-394,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,21,57.98,16
-395,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,21,57.98,17
-396,"Connaught Place, Delhi",28.6314022,77.2193791,3,22,55.05,0
-397,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,22,55.05,1
-398,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,22,55.05,2
-399,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,22,55.05,3
-400,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,22,55.05,4
-401,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,22,55.05,5
-402,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,22,55.05,6
-403,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,22,55.05,7
-404,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,22,55.05,8
-405,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,22,55.05,9
-406,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,22,55.05,10
-407,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,22,55.05,11
-408,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,22,55.05,12
-409,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,22,55.05,13
-410,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,22,55.05,14
-411,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,22,55.05,15
-412,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,22,55.05,16
-413,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,22,55.05,17
-414,"Connaught Place, Delhi",28.6314022,77.2193791,3,23,54.82,0
-415,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,23,54.82,1
-416,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,23,54.82,2
-417,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,23,54.82,3
-418,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,23,54.82,4
-419,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,23,54.82,5
-420,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,23,54.82,6
-421,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,23,54.82,7
-422,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,23,54.82,8
-423,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,23,54.82,9
-424,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,23,54.82,10
-425,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,23,54.82,11
-426,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,23,54.82,12
-427,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,23,54.82,13
-428,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,23,54.82,14
-429,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,23,54.82,15
-430,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,23,54.82,16
-431,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,23,54.82,17
-432,"Connaught Place, Delhi",28.6314022,77.2193791,3,24,54.0,0
-433,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,24,54.0,1
-434,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,24,54.0,2
-435,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,24,54.0,3
-436,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,24,54.0,4
-437,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,24,54.0,5
-438,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,24,54.0,6
-439,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,24,54.0,7
-440,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,24,54.0,8
-441,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,24,54.0,9
-442,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,24,54.0,10
-443,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,24,54.0,11
-444,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,24,54.0,12
-445,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,24,54.0,13
-446,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,24,54.0,14
-447,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,24,54.0,15
-448,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,24,54.0,16
-449,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,24,54.0,17
+0,"Connaught Place, Delhi",28.6314022,77.2193791,3,0,107.39,0
+1,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,0,107.39,1
+2,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,0,107.39,2
+3,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,0,107.39,3
+4,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,0,107.39,4
+5,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,0,107.39,5
+6,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,0,107.39,6
+7,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,0,107.39,7
+8,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,0,107.39,8
+9,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,0,107.39,9
+10,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,0,107.39,10
+11,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,0,107.39,11
+12,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,0,107.39,12
+13,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,0,107.39,13
+14,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,0,107.39,14
+15,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,0,107.39,15
+16,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,0,107.39,16
+17,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,0,107.39,17
+18,"Connaught Place, Delhi",28.6314022,77.2193791,3,0,107.39,18
+19,"Connaught Place, Delhi",28.6314022,77.2193791,3,1,103.56,0
+20,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,1,103.56,1
+21,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,1,103.56,2
+22,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,1,103.56,3
+23,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,1,103.56,4
+24,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,1,103.56,5
+25,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,1,103.56,6
+26,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,1,103.56,7
+27,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,1,103.56,8
+28,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,1,103.56,9
+29,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,1,103.56,10
+30,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,1,103.56,11
+31,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,1,103.56,12
+32,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,1,103.56,13
+33,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,1,103.56,14
+34,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,1,103.56,15
+35,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,1,103.56,16
+36,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,1,103.56,17
+37,"Connaught Place, Delhi",28.6314022,77.2193791,3,1,103.56,18
+38,"Connaught Place, Delhi",28.6314022,77.2193791,3,2,98.64,0
+39,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,2,98.64,1
+40,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,2,98.64,2
+41,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,2,98.64,3
+42,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,2,98.64,4
+43,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,2,98.64,5
+44,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,2,98.64,6
+45,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,2,98.64,7
+46,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,2,98.64,8
+47,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,2,98.64,9
+48,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,2,98.64,10
+49,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,2,98.64,11
+50,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,2,98.64,12
+51,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,2,98.64,13
+52,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,2,98.64,14
+53,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,2,98.64,15
+54,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,2,98.64,16
+55,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,2,98.64,17
+56,"Connaught Place, Delhi",28.6314022,77.2193791,3,2,98.64,18
+57,"Connaught Place, Delhi",28.6314022,77.2193791,3,3,97.6,0
+58,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,3,97.6,1
+59,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,3,97.6,2
+60,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,3,97.6,3
+61,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,3,97.6,4
+62,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,3,97.6,5
+63,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,3,97.6,6
+64,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,3,97.6,7
+65,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,3,97.6,8
+66,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,3,97.6,9
+67,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,3,97.6,10
+68,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,3,97.6,11
+69,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,3,97.6,12
+70,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,3,97.6,13
+71,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,3,97.6,14
+72,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,3,97.6,15
+73,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,3,97.6,16
+74,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,3,97.6,17
+75,"Connaught Place, Delhi",28.6314022,77.2193791,3,3,97.6,18
+76,"Connaught Place, Delhi",28.6314022,77.2193791,3,4,94.99,0
+77,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,4,94.99,1
+78,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,4,94.99,2
+79,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,4,94.99,3
+80,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,4,94.99,4
+81,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,4,94.99,5
+82,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,4,94.99,6
+83,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,4,94.99,7
+84,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,4,94.99,8
+85,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,4,94.99,9
+86,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,4,94.99,10
+87,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,4,94.99,11
+88,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,4,94.99,12
+89,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,4,94.99,13
+90,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,4,94.99,14
+91,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,4,94.99,15
+92,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,4,94.99,16
+93,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,4,94.99,17
+94,"Connaught Place, Delhi",28.6314022,77.2193791,3,4,94.99,18
+95,"Connaught Place, Delhi",28.6314022,77.2193791,3,5,89.94,0
+96,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,5,89.94,1
+97,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,5,89.94,2
+98,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,5,89.94,3
+99,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,5,89.94,4
+100,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,5,89.94,5
+101,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,5,89.94,6
+102,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,5,89.94,7
+103,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,5,89.94,8
+104,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,5,89.94,9
+105,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,5,89.94,10
+106,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,5,89.94,11
+107,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,5,89.94,12
+108,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,5,89.94,13
+109,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,5,89.94,14
+110,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,5,89.94,15
+111,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,5,89.94,16
+112,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,5,89.94,17
+113,"Connaught Place, Delhi",28.6314022,77.2193791,3,5,89.94,18
+114,"Connaught Place, Delhi",28.6314022,77.2193791,3,6,88.67,0
+115,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,6,88.67,1
+116,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,6,88.67,2
+117,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,6,88.67,3
+118,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,6,88.67,4
+119,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,6,88.67,5
+120,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,6,88.67,6
+121,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,6,88.67,7
+122,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,6,88.67,8
+123,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,6,88.67,9
+124,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,6,88.67,10
+125,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,6,88.67,11
+126,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,6,88.67,12
+127,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,6,88.67,13
+128,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,6,88.67,14
+129,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,6,88.67,15
+130,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,6,88.67,16
+131,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,6,88.67,17
+132,"Connaught Place, Delhi",28.6314022,77.2193791,3,6,88.67,18
+133,"Connaught Place, Delhi",28.6314022,77.2193791,3,7,85.76,0
+134,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,7,85.76,1
+135,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,7,85.76,2
+136,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,7,85.76,3
+137,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,7,85.76,4
+138,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,7,85.76,5
+139,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,7,85.76,6
+140,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,7,85.76,7
+141,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,7,85.76,8
+142,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,7,85.76,9
+143,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,7,85.76,10
+144,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,7,85.76,11
+145,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,7,85.76,12
+146,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,7,85.76,13
+147,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,7,85.76,14
+148,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,7,85.76,15
+149,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,7,85.76,16
+150,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,7,85.76,17
+151,"Connaught Place, Delhi",28.6314022,77.2193791,3,7,85.76,18
+152,"Connaught Place, Delhi",28.6314022,77.2193791,3,8,82.93,0
+153,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,8,82.93,1
+154,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,8,82.93,2
+155,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,8,82.93,3
+156,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,8,82.93,4
+157,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,8,82.93,5
+158,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,8,82.93,6
+159,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,8,82.93,7
+160,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,8,82.93,8
+161,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,8,82.93,9
+162,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,8,82.93,10
+163,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,8,82.93,11
+164,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,8,82.93,12
+165,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,8,82.93,13
+166,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,8,82.93,14
+167,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,8,82.93,15
+168,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,8,82.93,16
+169,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,8,82.93,17
+170,"Connaught Place, Delhi",28.6314022,77.2193791,3,8,82.93,18
+171,"Connaught Place, Delhi",28.6314022,77.2193791,3,9,80.41,0
+172,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,9,80.41,1
+173,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,9,80.41,2
+174,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,9,80.41,3
+175,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,9,80.41,4
+176,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,9,80.41,5
+177,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,9,80.41,6
+178,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,9,80.41,7
+179,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,9,80.41,8
+180,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,9,80.41,9
+181,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,9,80.41,10
+182,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,9,80.41,11
+183,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,9,80.41,12
+184,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,9,80.41,13
+185,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,9,80.41,14
+186,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,9,80.41,15
+187,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,9,80.41,16
+188,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,9,80.41,17
+189,"Connaught Place, Delhi",28.6314022,77.2193791,3,9,80.41,18
+190,"Connaught Place, Delhi",28.6314022,77.2193791,3,10,79.36,0
+191,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,10,79.36,1
+192,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,10,79.36,2
+193,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,10,79.36,3
+194,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,10,79.36,4
+195,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,10,79.36,5
+196,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,10,79.36,6
+197,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,10,79.36,7
+198,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,10,79.36,8
+199,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,10,79.36,9
+200,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,10,79.36,10
+201,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,10,79.36,11
+202,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,10,79.36,12
+203,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,10,79.36,13
+204,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,10,79.36,14
+205,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,10,79.36,15
+206,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,10,79.36,16
+207,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,10,79.36,17
+208,"Connaught Place, Delhi",28.6314022,77.2193791,3,10,79.36,18
+209,"Connaught Place, Delhi",28.6314022,77.2193791,3,11,78.0,0
+210,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,11,78.0,1
+211,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,11,78.0,2
+212,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,11,78.0,3
+213,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,11,78.0,4
+214,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,11,78.0,5
+215,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,11,78.0,6
+216,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,11,78.0,7
+217,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,11,78.0,8
+218,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,11,78.0,9
+219,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,11,78.0,10
+220,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,11,78.0,11
+221,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,11,78.0,12
+222,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,11,78.0,13
+223,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,11,78.0,14
+224,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,11,78.0,15
+225,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,11,78.0,16
+226,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,11,78.0,17
+227,"Connaught Place, Delhi",28.6314022,77.2193791,3,11,78.0,18
+228,"Connaught Place, Delhi",28.6314022,77.2193791,3,12,77.39,0
+229,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,12,77.39,1
+230,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,12,77.39,2
+231,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,12,77.39,3
+232,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,12,77.39,4
+233,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,12,77.39,5
+234,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,12,77.39,6
+235,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,12,77.39,7
+236,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,12,77.39,8
+237,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,12,77.39,9
+238,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,12,77.39,10
+239,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,12,77.39,11
+240,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,12,77.39,12
+241,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,12,77.39,13
+242,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,12,77.39,14
+243,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,12,77.39,15
+244,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,12,77.39,16
+245,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,12,77.39,17
+246,"Connaught Place, Delhi",28.6314022,77.2193791,3,12,77.39,18
+247,"Connaught Place, Delhi",28.6314022,77.2193791,3,13,76.15,0
+248,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,13,76.15,1
+249,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,13,76.15,2
+250,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,13,76.15,3
+251,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,13,76.15,4
+252,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,13,76.15,5
+253,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,13,76.15,6
+254,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,13,76.15,7
+255,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,13,76.15,8
+256,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,13,76.15,9
+257,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,13,76.15,10
+258,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,13,76.15,11
+259,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,13,76.15,12
+260,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,13,76.15,13
+261,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,13,76.15,14
+262,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,13,76.15,15
+263,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,13,76.15,16
+264,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,13,76.15,17
+265,"Connaught Place, Delhi",28.6314022,77.2193791,3,13,76.15,18
+266,"Connaught Place, Delhi",28.6314022,77.2193791,3,14,72.4,0
+267,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,14,72.4,1
+268,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,14,72.4,2
+269,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,14,72.4,3
+270,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,14,72.4,4
+271,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,14,72.4,5
+272,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,14,72.4,6
+273,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,14,72.4,7
+274,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,14,72.4,8
+275,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,14,72.4,9
+276,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,14,72.4,10
+277,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,14,72.4,11
+278,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,14,72.4,12
+279,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,14,72.4,13
+280,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,14,72.4,14
+281,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,14,72.4,15
+282,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,14,72.4,16
+283,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,14,72.4,17
+284,"Connaught Place, Delhi",28.6314022,77.2193791,3,14,72.4,18
+285,"Connaught Place, Delhi",28.6314022,77.2193791,3,15,71.76,0
+286,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,15,71.76,1
+287,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,15,71.76,2
+288,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,15,71.76,3
+289,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,15,71.76,4
+290,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,15,71.76,5
+291,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,15,71.76,6
+292,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,15,71.76,7
+293,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,15,71.76,8
+294,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,15,71.76,9
+295,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,15,71.76,10
+296,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,15,71.76,11
+297,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,15,71.76,12
+298,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,15,71.76,13
+299,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,15,71.76,14
+300,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,15,71.76,15
+301,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,15,71.76,16
+302,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,15,71.76,17
+303,"Connaught Place, Delhi",28.6314022,77.2193791,3,15,71.76,18
+304,"Connaught Place, Delhi",28.6314022,77.2193791,3,16,68.49,0
+305,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,16,68.49,1
+306,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,16,68.49,2
+307,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,16,68.49,3
+308,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,16,68.49,4
+309,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,16,68.49,5
+310,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,16,68.49,6
+311,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,16,68.49,7
+312,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,16,68.49,8
+313,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,16,68.49,9
+314,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,16,68.49,10
+315,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,16,68.49,11
+316,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,16,68.49,12
+317,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,16,68.49,13
+318,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,16,68.49,14
+319,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,16,68.49,15
+320,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,16,68.49,16
+321,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,16,68.49,17
+322,"Connaught Place, Delhi",28.6314022,77.2193791,3,16,68.49,18
+323,"Connaught Place, Delhi",28.6314022,77.2193791,3,17,67.39,0
+324,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,17,67.39,1
+325,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,17,67.39,2
+326,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,17,67.39,3
+327,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,17,67.39,4
+328,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,17,67.39,5
+329,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,17,67.39,6
+330,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,17,67.39,7
+331,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,17,67.39,8
+332,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,17,67.39,9
+333,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,17,67.39,10
+334,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,17,67.39,11
+335,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,17,67.39,12
+336,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,17,67.39,13
+337,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,17,67.39,14
+338,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,17,67.39,15
+339,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,17,67.39,16
+340,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,17,67.39,17
+341,"Connaught Place, Delhi",28.6314022,77.2193791,3,17,67.39,18
+342,"Connaught Place, Delhi",28.6314022,77.2193791,3,18,66.39,0
+343,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,18,66.39,1
+344,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,18,66.39,2
+345,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,18,66.39,3
+346,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,18,66.39,4
+347,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,18,66.39,5
+348,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,18,66.39,6
+349,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,18,66.39,7
+350,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,18,66.39,8
+351,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,18,66.39,9
+352,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,18,66.39,10
+353,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,18,66.39,11
+354,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,18,66.39,12
+355,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,18,66.39,13
+356,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,18,66.39,14
+357,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,18,66.39,15
+358,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,18,66.39,16
+359,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,18,66.39,17
+360,"Connaught Place, Delhi",28.6314022,77.2193791,3,18,66.39,18
+361,"Connaught Place, Delhi",28.6314022,77.2193791,3,19,65.77,0
+362,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,19,65.77,1
+363,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,19,65.77,2
+364,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,19,65.77,3
+365,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,19,65.77,4
+366,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,19,65.77,5
+367,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,19,65.77,6
+368,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,19,65.77,7
+369,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,19,65.77,8
+370,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,19,65.77,9
+371,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,19,65.77,10
+372,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,19,65.77,11
+373,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,19,65.77,12
+374,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,19,65.77,13
+375,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,19,65.77,14
+376,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,19,65.77,15
+377,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,19,65.77,16
+378,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,19,65.77,17
+379,"Connaught Place, Delhi",28.6314022,77.2193791,3,19,65.77,18
+380,"Connaught Place, Delhi",28.6314022,77.2193791,3,20,64.06,0
+381,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,20,64.06,1
+382,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,20,64.06,2
+383,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,20,64.06,3
+384,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,20,64.06,4
+385,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,20,64.06,5
+386,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,20,64.06,6
+387,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,20,64.06,7
+388,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,20,64.06,8
+389,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,20,64.06,9
+390,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,20,64.06,10
+391,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,20,64.06,11
+392,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,20,64.06,12
+393,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,20,64.06,13
+394,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,20,64.06,14
+395,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,20,64.06,15
+396,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,20,64.06,16
+397,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,20,64.06,17
+398,"Connaught Place, Delhi",28.6314022,77.2193791,3,20,64.06,18
+399,"Connaught Place, Delhi",28.6314022,77.2193791,3,21,63.69,0
+400,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,21,63.69,1
+401,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,21,63.69,2
+402,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,21,63.69,3
+403,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,21,63.69,4
+404,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,21,63.69,5
+405,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,21,63.69,6
+406,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,21,63.69,7
+407,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,21,63.69,8
+408,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,21,63.69,9
+409,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,21,63.69,10
+410,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,21,63.69,11
+411,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,21,63.69,12
+412,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,21,63.69,13
+413,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,21,63.69,14
+414,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,21,63.69,15
+415,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,21,63.69,16
+416,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,21,63.69,17
+417,"Connaught Place, Delhi",28.6314022,77.2193791,3,21,63.69,18
+418,"Connaught Place, Delhi",28.6314022,77.2193791,3,22,63.48,0
+419,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,22,63.48,1
+420,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,22,63.48,2
+421,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,22,63.48,3
+422,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,22,63.48,4
+423,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,22,63.48,5
+424,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,22,63.48,6
+425,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,22,63.48,7
+426,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,22,63.48,8
+427,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,22,63.48,9
+428,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,22,63.48,10
+429,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,22,63.48,11
+430,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,22,63.48,12
+431,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,22,63.48,13
+432,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,22,63.48,14
+433,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,22,63.48,15
+434,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,22,63.48,16
+435,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,22,63.48,17
+436,"Connaught Place, Delhi",28.6314022,77.2193791,3,22,63.48,18
+437,"Connaught Place, Delhi",28.6314022,77.2193791,3,23,60.54,0
+438,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,23,60.54,1
+439,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,23,60.54,2
+440,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,23,60.54,3
+441,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,23,60.54,4
+442,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,23,60.54,5
+443,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,23,60.54,6
+444,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,23,60.54,7
+445,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,23,60.54,8
+446,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,23,60.54,9
+447,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,23,60.54,10
+448,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,23,60.54,11
+449,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,23,60.54,12
+450,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,23,60.54,13
+451,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,23,60.54,14
+452,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,23,60.54,15
+453,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,23,60.54,16
+454,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,23,60.54,17
+455,"Connaught Place, Delhi",28.6314022,77.2193791,3,23,60.54,18
+456,"Connaught Place, Delhi",28.6314022,77.2193791,3,24,60.32,0
+457,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,24,60.32,1
+458,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,24,60.32,2
+459,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,24,60.32,3
+460,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,24,60.32,4
+461,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,24,60.32,5
+462,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,24,60.32,6
+463,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,24,60.32,7
+464,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,24,60.32,8
+465,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,24,60.32,9
+466,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,24,60.32,10
+467,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,24,60.32,11
+468,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,24,60.32,12
+469,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,24,60.32,13
+470,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,24,60.32,14
+471,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,24,60.32,15
+472,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,24,60.32,16
+473,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,24,60.32,17
+474,"Connaught Place, Delhi",28.6314022,77.2193791,3,24,60.32,18
+475,"Connaught Place, Delhi",28.6314022,77.2193791,3,25,59.5,0
+476,"317 Phase 2, Pocket D, Delhi 110091",28.6039267,77.2903476,3,25,59.5,1
+477,"110 A 1st Floor, Delhi 110091",28.608135091203348,77.30101979939349,3,25,59.5,2
+478,"B-42, Patparganj Road, Near Paliwal Dharmshala, Guru Nanak Pura, Delhi 110092",28.6024541,77.3141628,3,25,59.5,3
+479,"787, Noida, Noida, Delhi 201301",28.6292302,77.38416795,3,25,59.5,4
+480,"834, Shalimar Garden Extn 1, Sahibabad, Ghaziabad, Delhi 201001",28.6722772,77.3700121,3,25,59.5,5
+481,"Maliwara, Vasant Marg, Opp Syndicate Bank, Ghaziabad, Ghaziabad, Delhi 201001",28.7387381,77.3143986,3,25,59.5,6
+482,"Budh Vihar, Delhi 110041",28.6908619,77.2795338,3,25,59.5,7
+483,"Shahdara, Dilshad Garden, Delhi 110095",28.6777276,77.3232072,3,25,59.5,8
+484,"32d, Fruit Garden, Railway Road, Delhi 121001",28.6716769,77.3162988,3,25,59.5,9
+485,"D-5, Opp. Balaji Mandir, Vivek Vihar, Delhi 110095",28.6691641,77.31226695421603,3,25,59.5,10
+486,"G 9, Part 2, Neel Kanth Chamber, Saini Enclave, Delhi 110092",28.6522939,77.30553030048932,3,25,59.5,11
+487,"63-64, Main Market, Subzi Mandi, Delhi 110007",28.63551235,77.32148223170245,3,25,59.5,12
+488,"G 1, Ashish Complex, New Rajdhani Enclave, Delhi 110092",28.64177085,77.2941447628349,3,25,59.5,13
+489,"Sh No 10, Opp Nirulas, Preet Vihar, Delhi 110092",28.6377532,77.2951746,3,25,59.5,14
+490,"C 423, Nirman Vihar, Delhi 110092",28.6342214,77.28807698430413,3,25,59.5,15
+491,"R-40, Vikas Marg Extn, Main Bus Stop, Shakarpur, Delhi 110092",28.6306797,77.2818984,3,25,59.5,16
+492,"G 90, Vijay Chowk, Laxmi Nagar, Delhi 110092",28.635087,77.2781101751352,3,25,59.5,17
+493,"Connaught Place, Delhi",28.6314022,77.2193791,3,25,59.5,18
